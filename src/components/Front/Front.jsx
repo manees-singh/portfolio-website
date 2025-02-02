@@ -1,6 +1,6 @@
 import React from 'react';
 import { getImageUrl } from '../../utils';
-import styles from './front.module.css';
+import styles from './Front.module.css';
 
 export const Front = () => {
     return <section className={styles.container}>
