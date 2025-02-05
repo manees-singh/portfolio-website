@@ -34,7 +34,7 @@ html {
 }
 
 .aboutImage {
-    width: 35%;
+    width: 300px;
     border-radius: 512px;
     
 }
@@ -75,7 +75,7 @@ html {
 }
 
 .aboutItem p{
-    font-size: 25px;
+    font-size: 20px;
    
 }
 
