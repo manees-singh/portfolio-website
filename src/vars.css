@@ -7,13 +7,13 @@
     --primary-color: #576cbc;
     --secondary-color: #19376d;
     --background-color: #ecf0f1;
-    --text-color: #fff;
+    --text-color: #000000;
     --color-dark: #0b2447;
-    --color-bg: #04152d;
+    --color-bg: #F0F4F8;
     --font-family: 'Baskeville SC';
     --color-text-hover: #64b5f6;
     
 
 
-    --font-roboto: 'Roboto';
+    --font-roboto: 'Monserrat';
 }

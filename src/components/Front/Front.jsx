@@ -5,11 +5,11 @@ import styles from './Front.module.css';
 export const Front = () => {
     return <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>
+            {/* <h1 className={styles.title}>
                 Hi, I'm Manish
-            </h1>
+            </h1> */}
             <p className={styles.description}>
-                A Computer Engineering student at the University of Kansas. 
+                Hi, I'm <span className={styles.name}>Manish Singh</span>. A Computer Engineering student at the University of Kansas. 
                
             </p>
 
